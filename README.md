@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ccoughlin
-- 👀 I’m interested in Natural Language Processing (NLP, Computer Vision (CV), and deep learning
+- 👀 I’m interested in Natural Language Processing (NLP), Computer Vision (CV), and deep learning
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/chrisrcoughlin)
 
 <!---
