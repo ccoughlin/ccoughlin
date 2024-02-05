@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ccoughlin
+- 👋 Hi, I’m @ccoughlin, Data Scientist at Datasite
 - 👀 I’m interested in Large Language Models (LLMs), Retrieval Augmented Generation (RAG), Natural Language Processing (NLP), Computer Vision (CV), and deep learning
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/chrisrcoughlin) or [my website](https://www.chriscoughlin.com/).
 
