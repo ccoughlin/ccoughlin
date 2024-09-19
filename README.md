@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ccoughlin!  I'm a Senior AI/ML Scientist at [Datasite](https://www.datasite.com/), where I work on Natural Language Processing (NLP) and Generative AI (GenAI) as part of the AI/ML team
+- 👋 Hi, I’m @ccoughlin!  I'm a Senior AI/ML Scientist at [Datasite](https://www.datasite.com/), where I work on Natural Language Processing (NLP) and Generative AI (GenAI) as part of the AI/ML Document Solutions team
 - 👀 I’m interested in GenAI (surprise!), Large Language Models (LLMs), Retrieval Augmented Generation (RAG), Semantic Search, Natural Language Processing (NLP), Computer Vision (CV), and deep learning
 - I don't have any insight or input into hiring or purchase decisions for my current employer.
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/chrisrcoughlin) or [my own page](https://www.chriscoughlin.com)
